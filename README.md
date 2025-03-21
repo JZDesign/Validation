@@ -1,3 +1,5 @@
+[![Swift](https://github.com/JZDesign/Validation/actions/workflows/swift.yml/badge.svg?branch=main)](https://github.com/JZDesign/Validation/actions/workflows/swift.yml)
+
 
 ![Validation](https://github.com/user-attachments/assets/da87300a-f08f-4e82-97cc-a192494c00f8)
 
