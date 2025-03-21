@@ -4,6 +4,17 @@
 # Validation
 Gather feedback on feature ideas so you can spend time working on what user actually want. 
 
+## How does is work?
+
+Validation is a UI as a Service. If you supply the URL to fetch the data from, we'll display it for you and make it easy to gather simple Positive, Negative feedback on your ideas. 
+
+## What does it look like?
+
+|Main Screen|Detail|With Images|
+|:--:|:--:|:--:|
+|![MainScreen](docs/img/Main_Screen.png)|![Content](docs/img/Content.png)|![withImage](docs/img/Content_Image.png)|
+
+
 ## TODO List
 
 - [] Initial release
