@@ -18,7 +18,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "Validation",
-            resources: [.process("Resouces")]
+            resources: [.process("Resources/")]
         ),
         .testTarget(
             name: "ValidationTests",
