@@ -6,6 +6,11 @@ public protocol AutoLocalizing {
 
 public extension AutoLocalizing {
     func callAsFunction() -> String {
-        String(localized: rawValue, bundle: .module)
+        String(localized: rawValue, bundle: Module.bundle)
     }
 }
+
+private enum Module {
+    static let bundle = Bundle.module
+}
+
