@@ -9,7 +9,7 @@ import SwiftUI
 import Validation
 
 struct ContentView: View {
-    let url = URL(string: "https://jacobzivandesign.com/foresight/whats-next.json")!
+    let url = URL(string: "https://raw.githubusercontent.com/JZDesign/Validation/refs/heads/main/Tests/ValidationTests/JSON/Sample.JSON")!
     
     var body: some View {
         NavigationView {
