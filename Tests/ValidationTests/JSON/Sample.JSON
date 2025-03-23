@@ -12,7 +12,7 @@
         "content": "Just my luck, no ice. You know what? It is beets. I've crashed into a beet truck. Hey, take a look at the earthlings. Goodbye! So you two dig up, dig up dinosaurs? Forget the fat lady! You're obsessed with the fat lady! Drive us out of here! Do you have any idea how long it takes those cups to decompose.",
         "createdAt": "2023-02-09",
         "id": "DAB58000-2EFA-4590-B0B8-557D8F30FA29",
-        "images": ["data:one","data:two"],
+        "images": ["https://raw.githubusercontent.com/JZDesign/Validation/refs/heads/main/docs/img/Main_Screen.png","https://raw.githubusercontent.com/JZDesign/Validation/refs/heads/main/docs/img/Content.png"],
         "listRowAccentColor": "#AA3333",
         "status": "ideation",
         "title": "Mark significant dates"
@@ -29,7 +29,7 @@
         "content": "What do they got in there? King Kong? Remind me to thank John for a lovely weekend. Yes, Yes, without the oops! Do you have any idea how long it takes those cups to decompose. We gotta burn the rain forest, dump toxic waste, pollute the air, and rip up the OZONE! 'Cause maybe if we screw up this planet enough, they won't want it anymore!",
         "createdAt": "2023-02-11",
         "id": "5556E88C-13C6-477B-8503-355364D993E9",
-        "images": ["data:one","data:two"],
+        "images": ["https://raw.githubusercontent.com/JZDesign/Validation/refs/heads/main/docs/img/Main_Screen.png","https://raw.githubusercontent.com/JZDesign/Validation/refs/heads/main/docs/img/Content.png"],
         "status": "ideation",
         "title": "Widgets and Complications"
     },

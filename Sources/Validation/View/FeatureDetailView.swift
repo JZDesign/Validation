@@ -66,6 +66,9 @@ struct FeatureDetailView: View {
                             .aspectRatio(contentMode: .fit)
                             .frame(minWidth: 300, minHeight: 300)
                             .frame(maxWidth: .infinity)
+                            .onAppear {
+                                print(image)
+                            }
                         }
                     }
                 }
