@@ -26,6 +26,7 @@ extension String {
         replacingOccurrences(of: "  ", with: "")
         .replacingOccurrences(of: "\n", with: "")
         .replacingOccurrences(of: ": ", with: ":")
+        .replacingOccurrences(of: "\\/", with: "/")
     }
 }
 
